@@ -1,4 +1,5 @@
-Simple Profile Card
+Simple Profile Card.
+
 This project features a straightforward and visually appealing profile card designed using HTML and CSS, enhanced with emojis and icons. It's an ideal starting point for anyone looking to create a personal or professional profile section on a website. The card includes basic details such as the user's name, profile picture, a short bio, and social media icons.
 
 ✨ Features
